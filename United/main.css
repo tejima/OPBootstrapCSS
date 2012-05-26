@@ -357,7 +357,7 @@ pre {
   padding: 7px;
   /*background: #97310E;*/
 
-  background: #efb73e;
+  background: #dd4814;
   border-bottom: 1px solid #E6E6E6;
   text-align: left;
   display: inline-block;
@@ -689,8 +689,8 @@ div.partsHeading {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  background-color: #efb73e;
-  border: 1px solid #efb73e;
+  background-color: #dd4814;
+  border: 1px solid #dd4814;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -834,7 +834,7 @@ div.operation ul.moreInfo li {
   color: #ffffff;
   list-style: none;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-  background-color: #efb73e;
+  background-color: #dd4814;
 }
 #Left .pageNav li.current > a {
   color: #ffffff;
