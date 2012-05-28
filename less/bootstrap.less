@@ -1,5 +1,5 @@
 /*!
- * Bootstrap v2.0.3
+ * Bootstrap v2.0.0
  *
  * Copyright 2012 Twitter, Inc
  * Licensed under the Apache License v2.0
@@ -8,15 +8,11 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
-
-
 // CSS Reset
 @import "reset.less";
 
 // Core variables and mixins
-//@import "variables.less"; 
-//@import "bootswatch.less";
-
+@import "variables.less"; // Modify this for custom colors, font-sizes, etc
 @import "mixins.less";
 
 // Grid system and page structure
@@ -56,13 +52,11 @@
 
 // Components: Misc
 @import "thumbnails.less";
-@import "labels-badges.less";
+@import "labels.less";
 @import "progress-bars.less";
 @import "accordion.less";
 @import "carousel.less";
 @import "hero-unit.less";
 
-
 // Utility classes
 @import "utilities.less"; // Has to be last to override when necessary
-
